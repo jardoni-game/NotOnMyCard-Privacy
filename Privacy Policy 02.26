@@ -2,44 +2,49 @@
 <html>
 <head>
 <title>NotOnMyCard Privacy Policy</title>
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    color: #333;
+    line-height: 1.7;
+  }
+  h1 { font-size: 28px; font-weight: 600; margin-bottom: 4px; }
+  h2 { font-size: 18px; font-weight: 600; margin-top: 32px; }
+  p { margin: 8px 0; }
+  .updated { color: #888; font-size: 14px; margin-bottom: 32px; }
+</style>
 </head>
 <body>
-<h1>Privacy Policy</h1>
-Privacy Policy for NotOnMyCard
 
-Last Updated: February 2026
+<h1>Privacy Policy for NotOnMyCard</h1>
+<p class="updated">Last Updated: February 2026</p>
 
-1. Introduction
-NotOnMyCard ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how our mobile application collects, uses, and safeguards your information.
+<h2>1. Introduction</h2>
+<p>NotOnMyCard ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains our data practices for our mobile application.</p>
 
-2. Information We Collect
-NotOnMyCard does not directly collect personal information such as your name, email address, or account details. However, our advertising partner may collect certain information as described below.
+<h2>2. Information We Collect</h2>
+<p>NotOnMyCard does not collect, store, or transmit any personal information. We do not collect your name, email address, location, device identifiers, or any other personal data. We do not use analytics services or track user behavior.</p>
 
-3. Advertising and Third-Party Data Collection
-We use Google AdMob to display advertisements in our app. Google AdMob collects the following information to serve personalized ads:
-- Advertising ID (IDFA on iOS)
-- IP address
-- General location information (not precise)
-- Device information (model, operating system, device settings)
-- App usage data and interactions
-- Browsing history and app activity
+<h2>3. How the App Works</h2>
+<p>NotOnMyCard is a local multiplayer bingo game. All gameplay, card creation, and multiplayer functionality operates entirely on your device and local network. No data is sent to our servers or any third parties. We do not maintain user accounts and do not require you to provide any personal information to use the app.</p>
 
-This data is collected and used by Google AdMob for advertising purposes, including serving targeted advertisements and measuring ad performance. Google's use of this information is governed by Google's Privacy Policy, which you can review at https://policies.google.com/privacy.
+<h2>4. Local Network Usage</h2>
+<p>The multiplayer feature uses your device's local Wi-Fi network to connect with other players on the same network. This connection is peer-to-peer and local only. No game data, player information, or network activity is transmitted outside your local network or stored by us.</p>
 
-4. Data We Do Not Collect
-NotOnMyCard does not collect, store, or process personal identifiable information. We do not use analytics services, track user behavior for our own purposes, or maintain user accounts.
+<h2>5. Children's Privacy</h2>
+<p>NotOnMyCard is designed to be family-friendly and is appropriate for all ages. Because we do not collect any personal information from any users, there is no risk of inadvertent collection of children's data. We comply fully with the Children's Online Privacy Protection Act (COPPA).</p>
 
-5. Children's Privacy
-NotOnMyCard is designed to be family-friendly. We do not knowingly collect information from children under 13. If we become aware that we have collected information from a child under 13, we will take steps to delete such information promptly.
+<h2>6. Third-Party Services</h2>
+<p>This version of NotOnMyCard does not integrate any third-party advertising, analytics, or data collection services.</p>
 
-6. Your Rights
-You can manage your advertising preferences through your device settings. On iOS, you can limit ad tracking through the App Tracking Transparency settings.
+<h2>7. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time to reflect changes in the app's features. We will notify you of any changes by updating the "Last Updated" date at the top of this policy. Continued use of the app after any changes constitutes your acceptance of the updated policy.</p>
 
-7. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
-
-8. Contact Us
-If you have questions about this Privacy Policy, please contact us at purenardcustoms@gmail.com.
+<h2>8. Contact Us</h2>
+<p>If you have questions about this Privacy Policy, please contact us at purenardcustoms@gmail.com.</p>
 
 </body>
 </html>
