@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4UAW3L55C6.Nardoni-Collective.NotOnMyCard"],
+        "components": [
+          {
+            "/": "/import",
+            "comment": "Card import deep link"
+          }
+        ]
+      }
+    ]
+  }
+}
